@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Haai! Welkom in de eerste versie van de AppVG</string>
+    <string name="app_name">AppVG</string>
+	<color name="greenish_yellow">#CCFF33</color>
+	<color name="black">#000000</color>
+</resources>
